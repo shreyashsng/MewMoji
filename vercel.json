@@ -1,0 +1,10 @@
+{
+    "git": {
+      "ignoredFiles": [
+        "README.md",
+        "*.md",
+        "docs/**",
+        "LICENSE"
+      ]
+    }
+  }
