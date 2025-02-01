@@ -1,22 +1,31 @@
-# MewMoji - AI Character Chat
+# MewMoji v0.0.1-beta
 
-An interactive chat application that lets users engage with AI-powered characters. Built with Next.js 14, TypeScript, and Tailwind CSS.
+## 🚀 Initial Beta Release
 
-## Features
+MewMoji is an AI character chat platform that lets you create, customize, and chat with AI characters.
 
-- Chat with AI characters with unique personalities
-- Create and customize user personas
-- Real-time message streaming
-- Responsive design for mobile and desktop
-- Dark mode support
-- Character customization
-- Multiple AI model support
+### ✨ Key Features
 
-## Tech Stack
+- Create and customize AI characters with unique personalities
+- Real-time chat with AI characters using advanced language models
+- Multiple personas for different chat experiences
+- Tag-based character organization and search
+- Google authentication
+- Light/Dark mode support
+- Responsive design for all devices
 
-- Next.js 14 (App Router)
-- TypeScript
-- Tailwind CSS
-- Supabase
-- Shadcn/ui
-- Framer Motion
+### 🔧 Technical Details
+
+- Built with Next.js 14 (App Router)
+- Supabase for database and auth
+- shadcn/ui components
+- Tailwind CSS styling
+- Framer Motion animations
+
+### 🌐 Live Demo
+
+Visit [mewmoji.vercel.app](https://mewmoji.vercel.app) to try it out!
+
+### 📝 Notes
+
+This is a beta release. Please report any bugs or issues in the GitHub repository.
